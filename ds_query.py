@@ -1,4 +1,4 @@
-from ds import DataSource
+from model_ds import DataSource
 
 
 def get_data_sources():
